@@ -1,0 +1,15 @@
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/RPG/bin/Debug/net6.0/RPG
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/RPG/bin/Debug/net6.0/RPG.deps.json
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/RPG/bin/Debug/net6.0/RPG.runtimeconfig.json
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/RPG/bin/Debug/net6.0/RPG.dll
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/RPG/bin/Debug/net6.0/RPG.pdb
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/RPG/obj/Debug/net6.0/RPG.csproj.AssemblyReference.cache
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/RPG/obj/Debug/net6.0/RPG.GeneratedMSBuildEditorConfig.editorconfig
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/RPG/obj/Debug/net6.0/RPG.AssemblyInfoInputs.cache
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/RPG/obj/Debug/net6.0/RPG.AssemblyInfo.cs
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/RPG/obj/Debug/net6.0/RPG.csproj.CoreCompileInputs.cache
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/RPG/obj/Debug/net6.0/RPG.dll
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/RPG/obj/Debug/net6.0/refint/RPG.dll
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/RPG/obj/Debug/net6.0/RPG.pdb
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/RPG/obj/Debug/net6.0/RPG.genruntimeconfig.cache
+/home/grinch/Projetos-Fullstack/Introdução ao .NET/RPG/obj/Debug/net6.0/ref/RPG.dll
